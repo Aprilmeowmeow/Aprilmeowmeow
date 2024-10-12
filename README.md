@@ -1,4 +1,4 @@
-### Hi, I'm April Lin! 👋
+### Hii, I'm April Lin! 👋
 
 
 - 🔭 I’m currently a full stack software engineer.
